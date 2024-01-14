@@ -1,0 +1,10 @@
+str="Python is Easy"
+str1=str.split()
+print(str1)
+str2=str.split('|')
+print(str2)
+print(type(str))
+str3=str.upper()
+str4=str.replace('e','k')
+print(str3)
+print(str4)
