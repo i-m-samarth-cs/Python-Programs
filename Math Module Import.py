@@ -1,0 +1,13 @@
+import math
+a=math.ceil(2.3)
+print(a)
+b=math.floor(2.3)
+print(b)
+c=math.cos(3)
+print(c)
+ans=math.factorial(5)
+print("Factorial:",ans)
+sq=math.sqrt(25)
+print(sq)
+ans=math.fmod(50,10)
+print(ans)
